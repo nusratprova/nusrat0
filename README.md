@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nusrat0
 - 👀 I’m interested in Data Science for Python
 - 🌱 I’m currently learning Machine Learning Models
-- 💞️ I’m looking to collaborate on Renewable Energy Projects (Generation Forecasting, Energy Storage Integration, Grid Impact, Optimal Power Flow, Energy Market Pricing etc.)
+- 💞️ I’m looking to collaborate on Renewable Energy Projects (Generation Forecasting, Energy Storage Integration, Grid Impact, Congestion Analysis, Energy Market Pricing etc.)
 - 📫 How to reach me Connect with me if you have similar interests (nusrat4321@gmail.com)
 
 <!---
